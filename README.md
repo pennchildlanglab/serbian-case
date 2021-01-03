@@ -5,9 +5,10 @@ This repository holds the permanent files for the serbian-case project, lead by 
 Here goes a one paragrph summary of the research question
 
 ## File tree 
-Here create a little file tree to show what folders are included
+Here include a list of files and folders included in the repo
 
 - publications
   - 2020-lsa-poster
+- .gitignore
 - LICENSE.md
 - README.md
