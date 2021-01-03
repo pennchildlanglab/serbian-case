@@ -2,7 +2,7 @@
 This repository holds the permanent files for the serbian-case project, lead by Stefan Pophristic. 
 
 ## Summary
-Here goes a one paragrph summary of the research question
+Here goes a one paragraph summary of the research question
 
 ## File tree 
 Here include a list of files and folders included in the repo
