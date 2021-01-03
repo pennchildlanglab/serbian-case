@@ -10,5 +10,5 @@ Here include a list of files and folders included in the repo
 - publications
   - 2020-lsa-poster
 - .gitignore
-- LICENSE.md
+- LICENSE
 - README.md
